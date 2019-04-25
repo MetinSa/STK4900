@@ -3,3 +3,6 @@ Repository containing the compulsory assignments from STK4900 - Statistical Meth
 
 ## Compulsory Assignment 1
 [Description](https://www.uio.no/studier/emner/matnat/math/STK4900/v19/mandatory/oblig1_19.pdf)
+
+## Compulsory Assignment 2
+[Description](https://www.uio.no/studier/emner/matnat/math/STK4900/v19/mandatory/oblig2.pdf)
